@@ -63,7 +63,7 @@ Get a free API key at https://fred.stlouisfed.org/docs/api/api_key.html
 
 Create a `.env` file in the root directory:
 ```
-FRED_API_KEY=your_key_here
+FRED_KEY_API=your_key_here
 ```
 
 **4. Run the notebooks in order**
