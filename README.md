@@ -74,7 +74,11 @@ rendered directly in Jupyter.
 
 ---
 
+## Live Dashboard
+
+Access the interactive dashboard: [US Macroeconomic Analysis](https://us-macro-analysis-cydotszt9kjeaccsj4mg3g.streamlit.app/)
 ## Dependencies
+---
 
 - `pandas` — data manipulation
 - `numpy` — numerical operations
